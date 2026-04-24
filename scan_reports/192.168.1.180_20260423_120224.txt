@@ -1,0 +1,19 @@
+============================================================
+  ADVANCED PORT SCANNER — SCAN REPORT
+============================================================
+  Target     : 192.168.1.180
+  IP Address : 192.168.1.180
+  Hostname   : 192.168.1.180
+  OS Guess   : Unknown
+  Scan Time  : 2026-04-23 12:02:24
+  Port Range : 1 - 1000
+  Duration   : 5s
+  Open Ports : 0
+============================================================
+
+RISK SUMMARY
+------------------------------------------------------------
+Critical Risk Ports : 0
+High Risk Ports     : 0
+CVEs Detected       : 0
+Overall Status      : No critical issues detected
